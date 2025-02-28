@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alaa Emad</h1>
-<h3 align="center">A passionate Embedded Software Engineer from Egypt</h3>
+<h3 align="center">Embedded Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaae1&label=Profile%20views&color=0e75b6&style=flat" alt="alaae1" /> </p>
 
